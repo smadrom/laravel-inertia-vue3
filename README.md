@@ -16,6 +16,8 @@
 
 > cd laravel-inertia-vue3
 
+> cp .env.example .env && php artisan key:generate
+
 > composer install && npm install
 
 > php artisan serve
