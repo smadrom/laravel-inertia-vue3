@@ -16,6 +16,8 @@
 
 > cd laravel-inertia-vue3
 
+> composer install && npm install
+
 > php artisan serve
 
 > **npm run dev** or **npm run watch**
